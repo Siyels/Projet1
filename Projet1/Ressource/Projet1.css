@@ -1,0 +1,40 @@
+header h1{
+	color:khaki;
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+	background-image: url("images/pattern.jpeg");
+}
+
+.separateur-vert{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+
+}
+.separateur-rouge{
+font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color:lightcoral;
+}
+.separateur-bleu{
+font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color:skyblue;
+}
+.achat{
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+body p{
+	font-family: Helvetica;
+}
